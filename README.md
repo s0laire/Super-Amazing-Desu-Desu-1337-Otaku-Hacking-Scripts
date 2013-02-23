@@ -1,14 +1,10 @@
-/*======================================================================*\
-|| #################################################################### ||
-|| #                                                                  # ||
-|| #    Jack's Super Amazing Desu Desu 1337 Otaku Hacking Script      # ||
-|| #                                                                  # ||
-|| #         I am not responsible for what you use this for!          # ||
-|| #                                                                  # ||
-|| #           Licensed under the Simplified BSD License              # ||
-|| #                                                                  # ||
-|| #################################################################### ||
-\*======================================================================*/
+                                                                  
+    Jack's Super Amazing Desu Desu 1337 Otaku Hacking Script      
+                                                                  
+    I am not responsible for what you use this for!         
+                                                                  
+    Licensed under the Simplified BSD License             
+
 
 INSTALL:
 
