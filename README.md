@@ -10,7 +10,7 @@ INSTALL:
 
 1) Clone repo: git clone git://github.com/JackKatz/Super-Amazing-Desu-Desu-1337-Otaku-Hacking-Scripts.git 
 
-2) Compile script with SHC: sch -r -f hack.sh
+2) Compile script with SHC: shc -r -f hack.sh
 
 3) SHC will compile the script and output two files.
 
