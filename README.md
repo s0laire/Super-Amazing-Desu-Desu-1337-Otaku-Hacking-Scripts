@@ -3,7 +3,7 @@
                                                                   
     I am not responsible for what you use this for!         
                                                                   
-    Licensed under the Simplified BSD License             
+    Licensed under the Aperture Open Software License v1.1             
 
 
 INSTALL:
@@ -20,26 +20,19 @@ INSTALL:
 
 7) Optional: Move binary to /usr/local/bin then rehash shell.
 
-Copyright (c) 2013, Brett Kind
+Copyright (c) 2014, Brett Kind
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Aperture Open Software License v1.1
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+This program is released under the terms of the Aperture Open Software License version 1.1, or at your option, any later version. Terms are as followed:
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+1. This program may be used for any purpose other than murder, alchemy, war, nigerian spirit summoning rituals, rewriting these terms to exclude nigerian spirit summoning rituals, monitoring an unlicensed lobotomy, forking this program to include Vi keybindings, sending spam email to Dave on level 17, writing an independent horror game, directly or indirectly noticeably advancing the heat death of the universe, or developing a malevolent artificial intelligence.
 
+2. This program must be released with these same terms under the same license.
+
+3. This program may not be run on non-Aperture approved hardware.
+
+This program is released with the Aperture Disaster Insurance warranty. If, for any reason, this program should cause environmental destruction or personnel casualties, please contact the Aperture Disaster Insurance department located on the Aperture website, or press the red button that is required to be attached to the main power line of the computer running this software, as discussed in the "Required Equipment" section in the Aperture Open Software license.
+
+Failure to adhere to these terms may result in legal action, employee termination, or fatal neurotoxin poisoning.
