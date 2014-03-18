@@ -8,7 +8,7 @@
 
 INSTALL:
 
-1) Clone repo: git clone git://github.com/JackKatz/Super-Amazing-Desu-Desu-1337-Otaku-Hacking-Scripts.git 
+1) Clone repo: git clone git://github.com/s0laire/Super-Amazing-Desu-Desu-1337-Otaku-Hacking-Scripts.git 
 
 2) Compile script with SHC: shc -r -f hack.sh
 
